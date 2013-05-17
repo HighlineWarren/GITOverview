@@ -23,7 +23,7 @@ You can run this command from any directory on a Warren Linux server. However, w
 So to get things off on the right foot, we'll start from the beginning so that you have a better understanding on how cloning, pulling, and merging works when dealing with GIT repositories.
 
 Let's say you've just created a new repository named "HelloWorld".
-In order to run this repository on a Warren web server, you'll need to <dt>CLONE</dt> it first.
+In order to run this repository on a Warren web server, you'll need to CLONE it first.
 To do this, simply type the following command:
 
     git clone [repository]
