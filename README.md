@@ -1,7 +1,6 @@
 GIT Overview
 ============
-
-*An introduction to GIT in the Warren environment and practial examples to make life simplier!
+*An introduction to GIT in the Warren environment and practial examples to make life simplier!*
 
 Table of Contents
 -----------------
@@ -28,10 +27,10 @@ In order to run this repository on a Warren web server, you'll need to CLONE it 
 To do this, simply type the following command:
 
     git clone [repository]
-*If you created this respository under the Warren company in GITHub, the command will be:
+*If you created this respository under the Warren company in GITHub, the command will be:*
 
     git clone https://github.com/WarrenDistribution/[repository].git
-*So, using our example, the command would look like:
+*So, using our example, the command would look like:*
   
     git clone https://github.com/WarrenDistribution/HelloWorld.git
     
