@@ -1,5 +1,6 @@
-GITOverview
-===========
+GIT Overview
+============
+
 *An introduction to GIT in the Warren environment and practial examples to make life simplier!
 
 Table of Contents
